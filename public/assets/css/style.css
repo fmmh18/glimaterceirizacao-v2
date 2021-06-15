@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-color: #e5e5e5;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.menu-pos {
+    margin-top: 4.2em
+}
+.bg-blue-person {
+    background-color: #053155 !important;
+}
+.menu-respon {
+    display:none;
+}
+.nav-link {
+
+    font-family: 'Hind', sans-serif !important;
+    font-size:1.1em !important;
+    font-weight: bold !important;
+    color: #FFFF !important;
+    padding-left: 1.5em !important;
+    padding-right: 1.5em !important;
+}
+.nav-link:hover {
+
+
+    color: #0F93FE !important;
+    font-weight: bold !important;
+}
+
+.bg-degrade {
+    background: rgba(2, 0, 36, 0.029);
+}
+.text-phone {
+    font-family: 'Oswald', sans-serif;
+    font-size:1.2em;
+    color: #fff;
+    background-color: #053155;
+    display: block;
+    padding: 1em;
+}
+.social{
+    padding: 1em;
+}
+.text-service {
+    font-family: 'Oswald', sans-serif;
+    font-size:2.2em;
+    color: #fff;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.bg-div {
+    background-color: #053155;
+    padding-bottom: 6em;
+    padding-top: 2em;
+}
+.text-service-description{
+    font-family: 'Poppins', sans-serif;
+    font-size:1.6em;
+    color: #053155;
+}
+.text-service-blue {
+    font-family: 'Oswald', sans-serif;
+    font-size:2.2em;
+    color: #053155;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.img-rounded{
+    border-radius: 100%;
+}
+.text-service-description-2 {
+
+    font-family: 'Oswald', sans-serif;
+    font-size:1.2em;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.text-address{
+
+    font-family: 'Oswald', sans-serif;
+    font-size:1.2em;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 2.5em;
+}
+.text-footer {
+    font-family: 'Poppins', sans-serif;
+    font-size:.8em;
+    color: #545454;
+
+}
